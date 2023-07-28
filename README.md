@@ -37,6 +37,8 @@ This project was developed following Lucas Montano && Neto Marin "[Zero ao App](
 - [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform-ios-android-template)
 - [Android Studio](https://developer.android.com/studio)
 - [Xcode](https://developer.apple.com/xcode/)
+- [SpaceX API](https://github.com/r-spacex/SpaceX-API)
+- [Ktor](https://ktor.io/)
 
 ## :scroll: Requirements
 
